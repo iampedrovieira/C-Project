@@ -1,0 +1,21 @@
+
+ID do recinto: 1.
+ID do cliente: 1.
+Data de aluguer: 05/12/2020
+hora:14 
+ Duração: 3
+Data de pagamento: 01/06/2019 
+ Modo de pagamento: 1
+Total a pagar: 90,00
+
+-----------------------
+ID do recinto: 1.
+ID do cliente: 1.
+Data de aluguer: 02/06/2019
+hora:16 
+ Duração: 1
+Data de pagamento: 00/00/-1364618691 
+ Modo de pagamento: 0
+Total a pagar: 30,00
+
+-----------------------

@@ -1,0 +1,39 @@
+Codigo Interno: 1
+Nome: ASA.
+Concelho: GuimarÆes.
+Tipo: Futebol7.
+Hora de Abertura: 6h.
+Hora de Fecho; 22h.
+Preço: 30,00euros
+Iluminação: 0
+Status: 0
+Total ganho: 660,00
+
+---------------------------------------------------------
+
+Codigo Interno: 3
+Nome: MTP campo 1.
+Concelho: Viana do Castelo.
+Tipo: Futebol7.
+Hora de Abertura: 6h.
+Hora de Fecho; 20h.
+Preço: 25,90euros
+Iluminação: 1
+Status: 0
+Total ganho: 0,00
+
+---------------------------------------------------------
+
+Codigo Interno: 2
+Nome: Escola ESTG.
+Concelho: Viana do Castelo.
+Tipo: Futsal.
+Hora de Abertura: 8h.
+Hora de Fecho; 20h.
+Preço: 13,50euros
+Iluminação: 1
+Status: 0
+Total ganho: 0,00
+
+---------------------------------------------------------
+

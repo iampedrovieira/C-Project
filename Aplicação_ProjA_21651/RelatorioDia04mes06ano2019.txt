@@ -1,0 +1,15 @@
+Reservas feitas neste dia(ainda não ativas/pagas)
+
+
+
+--------------------------
+Algueres feitos neste dia(reservas pagas)
+
+
+ID do recinto: 1
+Dia de Aluguer: 17/12/2019
+
+
+
+--------------------------
+Total faturado neste dia 120,00euros

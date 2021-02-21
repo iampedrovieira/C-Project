@@ -1,0 +1,12 @@
+Num:1
+Nome: Cliente Teste
+Morada: Rua dos testes
+Localidade: testolandia
+E-mail: teste@testando.com
+NIF: 1234
+NCC: 91111
+Telemovel: 33333
+
+
+
+ 
